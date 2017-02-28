@@ -120,11 +120,11 @@
     ],
     "installed_packages": [
       {
-        "name": "concrete5.8.zip",
+        "name": "concrete5.8.1.0zip",
         "source_url": "https://www.concrete5.org/download_file/-/view/93797/",
         "destination": "./",
-        "extraction_command": "unzip",
-        "path_to_extracted": "concrete5-8.0.2"
+        "extraction_command": "unzip ",
+        "path_to_extracted": "concrete5-8.1.0"
       }
     ],
     "system_packages": [
