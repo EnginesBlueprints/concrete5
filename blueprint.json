@@ -14,7 +14,7 @@
         "level": "alpha",
         "patch": 0
       },
-      "timestamp": "2017-02-28 03:38:40 UTC"
+      "timestamp": "2017-02-28T03:38:40+00:00"
     },
     "software": {
       "display": {
@@ -77,12 +77,7 @@
       "extract": false
     },
     "persistent_directories": [
-      {
-        "path": "app/application/config/"
-      },
-      {
-        "path": "app/application/files"
-      }
+
     ],
     "service_configurations": [
       {
