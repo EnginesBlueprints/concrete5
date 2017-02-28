@@ -77,7 +77,12 @@
       "extract": false
     },
     "persistent_directories": [
-
+      {
+        "path": "app/application/config"
+      },
+      {
+        "path": "app/application/files"
+      }
     ],
     "service_configurations": [
       {
@@ -116,7 +121,7 @@
     "installed_packages": [
       {
         "name": "concrete5.8.zip",
-        "source_url": "http://www.concrete5.org/download_file/-/view/92910/",
+        "source_url": "https://www.concrete5.org/download_file/-/view/93797/",
         "destination": "./",
         "extraction_command": "unzip",
         "path_to_extracted": "concrete5-8.0.2"
